@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImSoDunn
 - 👀 I’m interested in coding, videogames, movies, softball
-- 🌱 I’m currently learning python3 and JavaScript
+- 🌱 I’m currently learning python3, Java, and C++
 - 💞️ I’m looking to collaborate on whatever you want
 - 📫 How to reach me bryandunn1013@gmail.com
 
