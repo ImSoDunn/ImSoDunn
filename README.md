@@ -1,8 +1,6 @@
 - Hello Everyone I am Bryan Dunn,
-- I'm a rising senior at Maryville University and a Software Engineer.
-- I have spent the last year and a half working as a part-tine Software Engineer while attending university.
-- During this time I have been committed to learning all that I can.
-- I have gotten experience in a myriad of frameworks, technologies, languages, development processes, etc.
+- I am a recent graduate from Maryville University STL.
+- I currently work as a Software Engineer I,
 - I hope you all enjoy my Github!
 
 <!---
